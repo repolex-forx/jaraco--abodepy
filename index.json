@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "abodepy",
+  "versions": [
+    {
+      "commit": "4ffce2314ed7e2c5d48a2c2758fddaef440b05ad",
+      "tag": "v1.2.2",
+      "parsed_at": "2026-10-18T09:43:36.801339+00:00"
+    }
+  ]
+}
