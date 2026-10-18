@@ -1,0 +1,39 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/jaraco/abodepy/commit/4ffce2314ed7e2c5d48a2c2758fddaef440b05ad",
+  "@type": "git:Commit",
+  "git:hexsha": "4ffce2314ed7e2c5d48a2c2758fddaef440b05ad",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/jaraco/abodepy"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/4ffce2314ed7e2c5d48a2c2758fddaef440b05ad.nq.gz",
+      "repolex:graphFileSize": 12437
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 63890
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 407
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 1524
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-18T09:40:33.176610+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "v1.2.2"
+}
