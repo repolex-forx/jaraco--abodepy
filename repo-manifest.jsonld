@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jaraco/abodepy/commit/4ffce2314ed7e2c5d48a2c2758fddaef440b05ad",
       "git:hexsha": "4ffce2314ed7e2c5d48a2c2758fddaef440b05ad",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.2.2"
     },
     {
